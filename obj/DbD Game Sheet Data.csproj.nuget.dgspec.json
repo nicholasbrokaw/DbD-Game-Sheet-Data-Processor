@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\DbD Game Sheet Data\\DbD Game Sheet Data.csproj": {}
+    "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\DbD Game Sheet Data.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\DbD Game Sheet Data\\DbD Game Sheet Data.csproj": {
+    "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\DbD Game Sheet Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\DbD Game Sheet Data\\DbD Game Sheet Data.csproj",
+        "projectUniqueName": "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\DbD Game Sheet Data.csproj",
         "projectName": "DbD Game Sheet Data",
-        "projectPath": "D:\\Visual Studio Projects\\DbD Game Sheet Data\\DbD Game Sheet Data.csproj",
-        "packagesPath": "C:\\Users\\knila\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Projects\\DbD Game Sheet Data\\obj\\",
+        "projectPath": "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\DbD Game Sheet Data.csproj",
+        "packagesPath": "C:\\Users\\fire2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\knila\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\fire2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Apis.Drive.v3": {
+              "target": "Package",
+              "version": "[1.49.0.2166, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text;
 
 /**
  * @author Knilax
@@ -14,7 +13,7 @@ public class Sheet
 	public List<Entry> Entries = new List<Entry>();
 
 	/**
-   * @desc Constructor
+   * @desc Constructor for path
    */
 	public Sheet(string path)
 	{
@@ -48,7 +47,39 @@ public class Sheet
 		// Close input file
 		sheetFile.Close();
 
-	} // end Sheet constructor
+	} // end Sheet constructor for path
+
+	/**
+	 * @author Nicholas Brokaw
+	 * @desc Constructor for StreamReader
+	 */
+	public Sheet(StreamReader sheetFile)
+	{
+		if(sheetFile != null)
+		{
+			// Skip header
+			for (int i = 0; i < 5; i++) sheetFile.ReadLine();
+
+			// Add entries
+			string currentLine;
+			while ((currentLine = sheetFile.ReadLine()) != null)
+			{
+				Entries.Add(new Entry(currentLine));
+			}
+
+			// DEBUG
+			foreach (Entry entry in Entries)
+				entry.WriteAll();
+
+			// Close input file
+			sheetFile.Close();
+		}
+		else
+		{
+			Console.Error.Write("Sheet data was null. Is it missing from Google Drive?");
+			Environment.Exit(1);
+		}
+	} // end Sheet constructor for StreamReader
 
 	/**
 	 * @desc Finds percent of perk appearance

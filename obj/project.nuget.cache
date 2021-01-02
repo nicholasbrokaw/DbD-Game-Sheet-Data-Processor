@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "WZWgENg7oJPZk8tP3Im368uk98ewAsCsxaK/i+fR2KSdAqQcn2SiqN1iZSd31j9ZIv/OHcwWrEWF4moUYrApPw==",
+  "dgSpecHash": "f7OuEJfygpQ4i22r0lPLoKyRW6uMS/aIcJUs2mMmW3b7LtbBfvJOJxzQ6y9/tflnWRwx+XJ4HUH5+WZwyKMzcA==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\DbD Game Sheet Data\\DbD Game Sheet Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\fire2\\Desktop\\dev\\homies\\DbD-Game-Sheet-Data-Processor\\DbD Game Sheet Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fire2\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\fire2\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\fire2\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\fire2\\.nuget\\packages\\google.apis.drive.v3\\1.49.0.2166\\google.apis.drive.v3.1.49.0.2166.nupkg.sha512",
+    "C:\\Users\\fire2\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

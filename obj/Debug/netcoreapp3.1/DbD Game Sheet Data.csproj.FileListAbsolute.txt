@@ -11,3 +11,24 @@ D:\Visual Studio Projects\DbD Game Sheet Data\obj\Debug\netcoreapp3.1\DbD Game S
 D:\Visual Studio Projects\DbD Game Sheet Data\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.dll
 D:\Visual Studio Projects\DbD Game Sheet Data\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.pdb
 D:\Visual Studio Projects\DbD Game Sheet Data\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.genruntimeconfig.cache
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.exe
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.deps.json
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.runtimeconfig.json
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.runtimeconfig.dev.json
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\DbD Game Sheet Data.pdb
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.csprojAssemblyReference.cache
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.AssemblyInfoInputs.cache
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.AssemblyInfo.cs
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.csproj.CoreCompileInputs.cache
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.csproj.CopyComplete
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.dll
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.pdb
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\obj\Debug\netcoreapp3.1\DbD Game Sheet Data.genruntimeconfig.cache
+C:\Users\fire2\Desktop\dev\homies\DbD-Game-Sheet-Data-Processor\bin\Debug\netcoreapp3.1\credentials.json
